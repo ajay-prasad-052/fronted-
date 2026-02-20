@@ -2,8 +2,8 @@ import React from "react";
 import Navbar from "./components/navbar/navbar";
 import { Route, Routes } from "react-router-dom";
 
-import Home from "./page/home/home";
-import Cart from "./page/cart/cart";
+import Home from "./page/Home/Home";
+import Cart from "./page/Cart/Cart";
 import PlaceOrder from "./page/placeorder/placeorder";
 
 const App = () => {
